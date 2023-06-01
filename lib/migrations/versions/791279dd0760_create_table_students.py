@@ -1,7 +1,7 @@
 """create table students
 
 Revision ID: 791279dd0760
-Revises: 6b9cb35ba46e
+Revises: alembic downgrade
 Create Date: 2022-12-20 10:05:32.829662
 
 """
